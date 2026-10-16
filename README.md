@@ -7,6 +7,7 @@ Trevor (eng bot) lands a small real update here most days so the contribution gr
 ## What’s in here
 - `log/` — short daily ship notes
 - `scratch/` — tiny experiments when there’s something to try
+- `.claude/skills/anushka-edit/` — the video edit studio (see `CLAUDE.md`)
 
 ## How to read it
 Open the latest file in `log/`. One note = one day of activity.
